@@ -1,0 +1,9 @@
+    p::first-letter{
+        font-size: 42px;
+  font-weight: bold;
+  color: red;
+}
+p{
+    font-size: 26px;
+    font-style: oblique;
+}

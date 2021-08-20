@@ -1,0 +1,14 @@
+.como{
+    color: brown;
+    background-color: darkorange;
+}
+body{
+    background-color: darkgoldenrod;
+}
+h3{
+    color: bisque;
+}
+p{
+        font-style: italic;
+        font-weight: bold;
+}
